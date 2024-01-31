@@ -1,4 +1,6 @@
-![](https://github.com/diogo-costa-silva/data-science-template/blob/main/headerimage.jpg)
+![](https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA)
+Photo by <a href="https://unsplash.com/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Scott Graham</a> on <a href="https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 # data-science-template
 
@@ -11,11 +13,12 @@ A template for all my data science projects.
 ![contributors](https://img.shields.io/github/contributors/pragyy/datascience-readme-template) 
 ![codesize](https://img.shields.io/github/languages/code-size/pragyy/datascience-readme-template) 
 
-> A guide to writing an amazing readme for your data science project.
+> A guide to writing an amazing readme for your data science project. Props to [Praggy](https://github.com/pragyy) for providing this awesome README [template](https://github.com/pragyy/datascience-readme-template?source=post_page-----ebb023d4a50e--------------------------------). I've made some changes according to my needs.
 
 The project title should be concise and self-explanatory so that the user can easily remember your project.
 
 Add a cover banner to the top of your Readme to catch the attention of your readers.
+
 I usually include images that are relevant to my project, and you can easily find any image for free online without worrying about copyright issues. However, if the work is not free, make sure to credit the proper owners in the references/acknowledgement section.
 
 The colorful tiles beneath the title are known as badges, and they improve readability by providing quick insights into the github repository. I use [Shields IO](https://shields.io/). Depending on the project you can use the ones that are relevant. 
@@ -41,7 +44,7 @@ In this section, I include all the necessary dependencies needed to reproduce th
 - **Data Visualization:** Include packages which were used to plot graphs in the analysis or for understanding the ML modelling such as `seaborn, matplotlib` and others.
 - **Machine Learning:** This includes packages that were used to generate the ML model such as `scikit, tensorflow`, etc.
 
-The level of granularity you want to provide for the above list is entirely up to you. You can also add a few more levels, such as those for statistical analysis or data preparation, or you can simply incorporate them into the above list as is.
+You can also add a few more levels, such as those for statistical analysis or data preparation, or you can simply incorporate them into the above list as is.
 
 # Data
 
@@ -65,11 +68,14 @@ Here is the basic suggested skeleton for your data science repo (you can structu
 
 ```bash
 ├── data
-│   ├── data1.csv
-│   ├── data2.csv
-│   ├── cleanedData
-│   │   ├── cleaneddata1.csv
-|   |   └── cleaneddata2.csv
+│   ├── raw
+│   │   ├── raw_data1.csv
+│   │   ├── raw_data2.csv
+│   ├── intermediary
+│   │   ├── inter_data1.csv
+│   ├── processed
+│   │   ├── processed_data1.csv
+│   │   ├── processed_data2.csv
 ├── data_acquisition.py
 ├── data_preprocessing.ipynb
 ├── data_analysis.ipynb
@@ -101,4 +107,3 @@ For this github repository, the License used is [MIT License](https://opensource
 
 ---
 
-Props to [Praggy](https://github.com/pragyy) for providing this awesome README [template](https://github.com/pragyy/datascience-readme-template?source=post_page-----ebb023d4a50e--------------------------------)
