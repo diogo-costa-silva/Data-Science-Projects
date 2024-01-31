@@ -12,9 +12,8 @@ A template for all my data science projects.
 
 ![](https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 Photo by <a href="https://unsplash.com/@homajob?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Scott Graham</a> on <a href="https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  
 
-
+<br>
 
 > A guide to writing an amazing readme for your data science project. Props to [Praggy](https://github.com/pragyy) for providing this awesome README [template](https://github.com/pragyy/datascience-readme-template?source=post_page-----ebb023d4a50e--------------------------------). I've made some changes according to my needs.
 
