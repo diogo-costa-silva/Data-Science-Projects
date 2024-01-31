@@ -1,4 +1,4 @@
-# data-science-template
+# Template for a Data Science project
 
 A template for all my data science projects.
 
