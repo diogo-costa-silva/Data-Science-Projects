@@ -17,6 +17,8 @@ Photo by <a href="https://unsplash.com/@homajob?utm_content=creditCopyText&utm_m
 
 > A guide to writing an amazing readme for your data science project. Props to [Praggy](https://github.com/pragyy) for providing this awesome README [template](https://github.com/pragyy/datascience-readme-template?source=post_page-----ebb023d4a50e--------------------------------). I've made some changes according to my needs.
 
+<br>
+
 The project title should be concise and self-explanatory so that the user can easily remember your project.
 
 Add a cover banner to the top of your Readme to catch the attention of your readers.
