@@ -9,6 +9,8 @@
   <img src="https://raw.githubusercontent.com/diogo-costa-silva/assets/main/images/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width=100%>
 </p>
 
+Data Science notebooks containing analysis of various datasets from the internet.
+
 ## My projects:
 
 Here are available the notebooks of the projects made by me in the area of Data Science and Machine Learning.
