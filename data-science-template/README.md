@@ -65,6 +65,8 @@ Data collection is not always as simple as downloading from Kaggle or any open s
 ## Data Preprocessing
 Acquired data is not always squeaky clean, so preprocessing them are an integral part of any data analysis. In this section you can talk about the same.
 
+---
+
 # Code structure
 Explain the code structure and how it is organized, including any significant files and their purposes. This will help others understand how to navigate your project and find specific components. 
 
@@ -92,6 +94,9 @@ Here is the basic suggested skeleton for your data science repo (you can structu
 └── .gitignore
 ```
 
+---
+
+
 # Results and evaluation
 Provide an overview of the results of your project, including any relevant metrics and graphs. Include explanations of any evaluation methodologies and how they were used to assess the quality of the model. You can also make it appealing by including any pictures of your analysis or visualizations.
 
@@ -109,5 +114,5 @@ Specify the license under which your code is released. Moreover, provide the lic
 
 For this github repository, the License used is [MIT License](https://opensource.org/license/mit/).
 
----
+
 
